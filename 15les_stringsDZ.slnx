@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="15les_stringsDZ/15les_stringsDZ.vcxproj" />
+</Solution>
